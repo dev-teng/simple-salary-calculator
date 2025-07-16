@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: #b56fd6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-style: arial;
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.is-totalHoursRendered, .is-showSalary {
+    opacity: 1;
+}
+
+footer {
+  font-size: small;
+}
